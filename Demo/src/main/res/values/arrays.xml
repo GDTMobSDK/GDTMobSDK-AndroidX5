@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="unified_interstitial">
+        <item>图文+视频，大/小规格</item>
+        <item>图文+视频，小规格</item>
+        <item>视频，大规格(竖版视频)</item>
+        <item>视频，小规格 (横版视频)</item>
+    </array>
+
+    <string-array name="unified_interstitial_value">
+        <item>4080298282218338</item>
+        <item>1050691202717808</item>
+        <item>4090398252717676</item>
+        <item>4090791272610625</item>
+    </string-array>
+
+    <array name="unified_interstitial_video">
+        <item>视频，大规格(竖版视频)</item>
+        <item>视频，小规格 (横版视频)</item>
+    </array>
+
+    <string-array name="unified_interstitial_video_value">
+        <item>4090398252717676</item>
+        <item>4090791272610625</item>
+    </string-array>
+
+    <array name="native_video_ad">
+        <item>图文+视频(默认)</item>
+        <item>视频</item>
+        <item>视频-三小图</item>
+    </array>
+
+    <string-array name="native_video_ad_value">
+        <item>9040092262296093</item>
+        <item>3040990202714940</item>
+        <item>2040690480079332</item>
+    </string-array>
+
+    <array name="native_express_video_ad">
+        <item>图文+视频-上图下文(默认)</item>
+        <item>仅视频</item>
+        <item>图文+视频-上文下图</item>
+        <item>图文+视频-双图双文</item>
+        <item>图文+视频-纯图(1280*720)</item>
+        <item>图文-左图右文</item>
+        <item>图文-左文右图</item>
+        <item>图文-纯图(800*1200)</item>
+        <item>图文-三小图</item>
+        <item>图文-文字浮层上文下图</item>
+        <item>图文-浮层上图下文</item>
+        <item>图文-浮层单图</item>
+        <item>图文-纯图1080*1920 或 800*1200</item>
+    </array>
+
+    <string-array name="native_express_video_ad_value">
+        <item>5060295460765937</item>
+        <item>6090892202222287</item>
+        <item>8060296410661918</item>
+        <item>3070795460267919</item>
+        <item>5040398450070061</item>
+        <item>9070794410575004</item>
+        <item>2040693450771078</item>
+        <item>5070195440478151</item>
+        <item>7080192470473192</item>
+        <item>7000695400370133</item>
+        <item>3030992400176197</item>
+        <item>2040498460877118</item>
+        <item>2060593460476272</item>
+    </string-array>
+
+    <array name="native_express_2_ad">
+        <item>左图右文(1280*720)(默认)</item>
+        <item>左文右图(1280*720)</item>
+        <item>上图下文(1280*720)</item>
+        <item>上文下图(1280*720)</item>
+        <item>上图下文-文字浮层(1280*720)</item>
+        <item>上文下图-文字浮层(1280*720)</item>
+        <item>双图双文(1280*720+300*300)</item>
+        <item>单图单文-文字浮层(1280*720)</item>
+        <item>竖版纯图片(1080*1920)</item>
+        <item>横版纯图片(1280*720)</item>
+        <item>三小图双文(228*150)</item>
+        <item>仅视频(1280*720)</item>
+    </array>
+
+    <string-array name="native_express_2_ad_value">
+        <item>3091718613719724</item>
+        <item>6001012663414795</item>
+        <item>9061615683013706</item>
+        <item>9041417653619707</item>
+        <item>8011310663216718</item>
+        <item>7061917663915779</item>
+        <item>1041112683513870</item>
+        <item>7041311643117823</item>
+        <item>8001816683512814</item>
+        <item>9081114683610806</item>
+        <item>6071418603717887</item>
+        <item>6071516623913891</item>
+    </string-array>
+
+    <array name="native_ad_unified_ad">
+        <item>图文视频-1280 * 720 (默认)</item>
+        <item>只出横版视频</item>
+        <item>只出竖版视频</item>
+        <item>图文视频-三小图 或 (1280 * 720)</item>
+        <item>图文-1200 * 627</item>
+        <item>图文-800 * 1200</item>
+        <item>图文-1080 * 1920 或 800 * 1200</item>
+    </array>
+
+    <string-array name="native_ad_unified_ad_value">
+        <item>4090398440079274</item>
+        <item>7050291272634146</item>
+        <item>2060699242425877</item>
+        <item>3040195480070217</item>
+        <item>7030091470278299</item>
+        <item>4010092450274310</item>
+        <item>1080999400676301</item>
+    </string-array>
+
+    <array name="reward_video">
+        <item>默认广告位(均勾选)</item>
+        <item>横屏支持竖版视频</item>
+        <item>竖屏支持横版视频</item>
+    </array>
+
+    <string-array name="reward_video_value">
+        <item>6040295592058680</item>
+        <item>2090390582952656</item>
+        <item>2090845242931421</item>
+    </string-array>
+
+    <array name="express_reward_video">
+        <item>竖屏广告位</item>
+        <item>横屏广告位</item>
+    </array>
+
+    <string-array name="express_reward_video_value">
+        <item>5061533829982064</item>
+        <item>6061235869886027</item>
+    </string-array>
+
+    <array name="gdt_native_ad_demo">
+        <item>默认</item>
+        <item>图文-1280*720</item>
+        <item>图文-1200*627</item>
+        <item>图文-800*1200</item>
+        <item>图文-三小图</item>
+        <item>图文-1080*1920、800*1200</item>
+    </array>
+
+    <string-array name="gdt_native_ad_demo_value">
+        <item>5010320697302671</item>
+        <item>1010894400671324</item>
+        <item>5090194490272345</item>
+        <item>6050894450074316</item>
+        <item>1060495400176377</item>
+        <item>2040991440574328</item>
+    </string-array>
+
+    <array name="splash_ad">
+        <item>默认</item>
+        <item>竖图</item>
+        <item>竖图+拼接竖图(1280x720)</item>
+        <item>仅视频</item>
+        <item>支持开屏V+的广告位</item>
+    </array>
+
+    <string-array name="splash_ad_value">
+        <item>8863364436303842593</item>
+        <item>4090599490374470</item>
+        <item>6030397430978491</item>
+        <item>3071604182864574</item>
+        <item>2091501132563573</item>
+    </string-array>
+
+    <!-- demo 引用字段 -->
+    <string-array name="play_video_network">
+        <item>仅Wi-Fi自动播放</item>
+        <item>始终自动播放</item>
+        <item>从不自动播放</item>
+    </string-array>
+
+    <string-array name="play_video_mute">
+        <item>静音</item>
+        <item>非静音</item>
+    </string-array>
+</resources>
